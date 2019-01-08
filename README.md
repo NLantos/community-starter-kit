@@ -1,10 +1,11 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+* Titi
+* toto
 
 ## What it does
 
-FEATURES PLACEHOLDER
+* A bot
 
 ## Getting started
 
